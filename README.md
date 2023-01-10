@@ -1,6 +1,6 @@
 # Currency Converter
 This program is intended to convert the currencies USD, Euro, Pound, and Yen to one another given the users choice and preffered amount.
-The currency rates are outdated and not accurate.
+**The currency rates are outdated and not accurate**
 
 Created by: Matthew Punzone | 1/7/2023 | Version 1
 
